@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="dod.cpp" />
     <ClCompile Include="Lab_13.1.cpp" />
+    <ClCompile Include="round.cpp" />
     <ClCompile Include="sum.cpp" />
     <ClCompile Include="var.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dod.h" />
+    <ClInclude Include="round.h" />
     <ClInclude Include="sum.h" />
     <ClInclude Include="var.h" />
   </ItemGroup>

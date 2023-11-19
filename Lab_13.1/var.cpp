@@ -2,5 +2,5 @@
 namespace nsVar 
 {			// добавляємо до простору імен
 	int n; // визначення змінних
-	double x, x_p, x_k, dx, e, a, s, arcctg;
+	double x, dx, x_p, x_k, e, a, s, arcctg;
 };
